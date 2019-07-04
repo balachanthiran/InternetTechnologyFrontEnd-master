@@ -1,0 +1,29 @@
+<h1>GALLERY</h1>
+
+<div id="gallery">
+  <div class="imagecontainer">
+    <div class="headline">
+      <h2>UPLOAD YOUR IMAGE</h2>
+      <label for="uploadinput" id="uploadlabel">Browse...</label>
+      <input type="file" accept="image/*" (change)="readUrl($event)" id="uploadinput">
+    </div>
+
+    <div>
+      <img class="image" [src]="imageurl" *ngIf="imageurl != null">
+      <!--<img id="image" [src]="imageurl" onerror="this.src='http://i1.kym-cdn.com/photos/images/newsfeed/001/183/604/ee9.png'">-->
+      <img class="image" src="this.src='http://i1.kym-cdn.com/photos/images/newsfeed/001/183/604/ee9.png'" *ngIf="imageurl == null">
+    </div>
+
+    <button class="prevNav" (click)="nav(-1)"><</button>
+    <button class="nextNav" (click)="nav(1)">></button>
+
+  </div>
+
+  <div class="wrapper">
+    <div class="imagepreviewlist" *ngFor="let img of currentGallery; let i = index">
+      <img class="smallimages" [class.selected]="img === imageurl" [src]="img" onerror="this.src='http://i1.kym-cdn.com/photos/images/newsfeed/001/183/604/ee9.png'"
+        (click)="selectImage(i)">
+    </div>
+  </div>
+
+</div>

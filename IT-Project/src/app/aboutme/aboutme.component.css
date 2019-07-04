@@ -1,0 +1,23 @@
+#aboutme{
+	color: black;
+	background-color: rgba(33,25,1,0.6);
+	text-align: center;
+	height: 650px;	
+	width: 900px;
+	margin: auto;
+	border-radius: 10px;
+	border: 3px solid #000;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+ul {
+    padding-left: 100px; 
+    font-weight: bold;
+    text-align: left;
+}

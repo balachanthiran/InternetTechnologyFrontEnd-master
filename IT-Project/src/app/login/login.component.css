@@ -1,0 +1,25 @@
+#login{
+	background-color: rgba(33,25,1,0.6);
+	text-align: center;
+	height: 400px;
+	width: 400px;
+	margin: auto;
+	border-radius: 10px;
+	border: 3px solid #000;
+}
+
+input:-webkit-autofill{
+	-webkit-text-fill-color: black !important;
+	-webkit-box-shadow: 0 0 0px 1000px #000 inset;
+	box-shadow: 0 0 0px 1000px #000 inset;
+}
+
+
+::-webkit-input-placeholder {
+
+	color: #000;
+}
+
+::-moz-placeholder{
+	color: #000;
+}

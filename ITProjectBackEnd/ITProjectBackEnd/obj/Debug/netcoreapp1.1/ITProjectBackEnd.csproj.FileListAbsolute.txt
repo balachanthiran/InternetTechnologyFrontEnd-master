@@ -1,0 +1,18 @@
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.deps.json
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.runtimeconfig.json
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.runtimeconfig.dev.json
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.dll
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.csprojResolveAssemblyReference.cache
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.AssemblyInfo.cs
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.pdb
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.dll
+c:\users\nasib\documents\visual studio 2017\Projects\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.pdb
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.deps.json
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.runtimeconfig.json
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.runtimeconfig.dev.json
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.dll
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\bin\Debug\netcoreapp1.1\ITProjectBackEnd.pdb
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.AssemblyInfo.cs
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.dll
+C:\Users\nasib\Documents\GitHub\InternetTechnologyFrontEnd\ITProjectBackEnd\ITProjectBackEnd\obj\Debug\netcoreapp1.1\ITProjectBackEnd.pdb

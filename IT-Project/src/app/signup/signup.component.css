@@ -1,0 +1,38 @@
+label {
+    color: black;
+	font-family: carobtnfont;
+	font-weight: bold;
+    display: inline-block;
+    width: 100px;
+	font-size: 18px;
+}
+
+#register{
+	background-color: rgba(33,25,1,0.6);
+    vertical-align: middle;
+	height: 550px;
+	width: 500px;
+	margin: auto;
+	border-radius: 10px;
+	border: 3px solid black;
+}
+
+.selected{
+	box-shadow: 0px 0px 12px 0px rgba(255,255,255,0.8);
+}
+
+input:-webkit-autofill{
+	-webkit-text-fill-color: black !important;
+	-webkit-box-shadow: 0 0 0px 1000px grey inset;
+	box-shadow: 0 0 0px 1000px grey inset;
+}
+
+
+::-webkit-input-placeholder {
+
+	color: #9b7d3e;
+}
+
+::-moz-placeholder{
+	color: #d3d3d3;
+}
